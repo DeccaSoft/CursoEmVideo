@@ -1,7 +1,7 @@
 # CursoEmVideo
 
- Repositório do Curso de Git/GitHub
+ Repositório do **Curso de Git/GitHub**
  
- Da Plataforma Curso em Vídeo
+ Da Plataforma *Curso em Vídeo*
  
  Do Professor Gustavo Guanabara
